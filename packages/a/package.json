@@ -1,0 +1,16 @@
+{
+  "name": "a",
+  "version": "1.0.0",
+  "description": "description I gave workspace a during init",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "it",
+    "was",
+    "fun"
+  ],
+  "author": "JamesG",
+  "license": "ISC"
+}

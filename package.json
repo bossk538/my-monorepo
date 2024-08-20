@@ -1,0 +1,24 @@
+{
+  "name": "my-monorepo",
+  "version": "1.0.0",
+  "description": "description I gava during init",
+  "main": "index.js",
+  "scripts": {
+    "test": "my-test-command"
+  },
+  "keywords": [
+    "cthulhu",
+    "dagon",
+    "yog-sothoth"
+  ],
+  "author": "JamesG",
+  "license": "ISC",
+  "workspaces": [
+    "packages/*"
+  ],
+  "dependencies": {
+    "next": "14.2.5",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  }
+}
