@@ -2,7 +2,6 @@
   "name": "my-monorepo",
   "version": "1.0.0",
   "description": "description I gava during init",
-  "main": "index.js",
   "scripts": {
     "test": "my-test-command"
   },
